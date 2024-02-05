@@ -1,0 +1,45 @@
+MReaDy_OH_1.9
+Obtained from MReaDy_HO2_0.9
+
+
+
+MReaDy_HO2_0.9
+-Corrections on the limits and flags of numbHO2 and maxflagst in verlet_alg.f90	 
+MReaDy_HO2_0.8.7
+-Correction on the agrupa file!
+indices i,k related to atoms and must relate to lines in group matrix
+Results are the same with version MReaDY_HO2_0.7
+
+MReaDy_HO2_0.8.6
+removed time = -1 and is now in variables.f90 
+
+MReaDy_HO2_0.7.0.5 (correction based on running version)
+- Correction made on the printing of geo*.xyz by printing total_real_time
+
+
+MReaDy_HO2_0.8.5
+removed "use (module)" from some files 
+
+MReaDy_HO2_0.8
+
+integration of kdtree in agrupa file
+correction from natoms_react to npart
+
+MReaDy_HO2_0.7
+
+-Corrections on the generation files
+-Inclusion of inner switches for transitions between diatomics and long-range
+
+
+- input_file is not used anymore. 
+The program as now to be to always compiled. 
+It avoids allocated variables. 
+Gains of execution time in the order of  10%
+
+- Optimization of the cycles
+
+- openMP was used in the main routines
+
+- kdtree is used locating neighbours both for the nanotube and reacting particles
+
+
