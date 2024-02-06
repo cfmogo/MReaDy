@@ -1,3 +1,0 @@
-/usr/lib/gcc/x86_64-linux-gnu/4.4.3/libgfortranbegin.a(fmain.o): In function `main':
-(.text+0x26): undefined reference to `MAIN__'
-collect2: ld returned 1 exit status
