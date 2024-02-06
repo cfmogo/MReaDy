@@ -12,8 +12,10 @@ MReaDy is built in such a way that it performs reactive dynamic calculations bas
 There are several versions of MReaDy, and they will gradually be uploaded.
 We present the MReaDy Base version since most of its working principles are common to the remaining versions.
 It simulates a hydrogen combustion with molecules that go up to 4 atoms. 
-Working principles are presented on the given reference.
+I've explained the working principles in the given reference.
 
+A proper version is being prepared to submit to Github.
+But if you are interested, don't hesitate to contact me at cfmogo@ualg.pt
 How to reference MReaDy:
 
 César Mogo and João Brandão
