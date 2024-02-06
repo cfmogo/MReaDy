@@ -9,13 +9,16 @@ Attempting to build a traditional PES for such a system quickly becomes impossib
 To circumvent this problem, a global Potential Energy Surface (gPES) can be defined by integrating various PESs,
 each representing an elementary reaction expected to play a role in the chemical process. 
 MReaDy is built in such a way that it performs reactive dynamic calculations based on such gPES.
+I've explained the working principles in the reference I've given.
+
+
 There are several versions of MReaDy, and they will gradually be uploaded.
-We present the MReaDy Base version since most of its working principles are common to the remaining versions.
+A manual, file structure, and executable of the MReaDy Base version and extra files are presented here. 
 It simulates a hydrogen combustion with molecules that go up to 4 atoms. 
-I've explained the working principles in the given reference.
 
 A proper version is being prepared to submit to Github.
 But if you are interested, don't hesitate to contact me at cfmogo@ualg.pt
+
 
 
 How to reference MReaDy:
