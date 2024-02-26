@@ -19,7 +19,7 @@ It simulates a hydrogen combustion with molecules that go up to 4 atoms.
 A proper version is being prepared to submit to Github.
 But if you are interested, don't hesitate to contact me at cfmogo@ualg.pt
 
-Contributors:César Mogo, João Brandão, Carolina Rio, Wenli Wang and Daniela Coelho  
+Contributors: César Mogo, João Brandão, Carolina Rio, Wenli Wang and Daniela Coelho  
 
 
 How to reference MReaDy:
