@@ -2,7 +2,7 @@
 
 MReaDy is a program for studying reactive dynamic systems using a global potential energy surface (gPES). 
 Potential Energy Surfaces (PES), based on ab initio calculations,
-is a powerful tool to study the rate of elementary reactions and their dynamics. It is indicated to compute state-to-state rate constants.
+is a powerful tool for studying the rate of elementary reactions and their dynamics. It is indicated to compute state-to-state rate constants.
 In a more complex mechanism, we will be in the presence of different and simultaneous elementary reactions,
 corresponding to all the possible reactive and non-reactive collisions between the species present and leading to the respective products.
 Attempting to build a traditional PES for such a system quickly becomes impossible.
