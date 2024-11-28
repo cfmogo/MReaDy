@@ -24,6 +24,6 @@ Contributors: César Mogo, João Brandão, Carolina Rio, Wenli Wang and Daniela 
 
 How to reference MReaDy:
 
-César Mogo and João Brandão
+César Mogo, João Brandão and D. Coelho
 J. Comput. Chem. 2014, 35, 1330-1337.
 DOI: 10.1002/jcc.23621
